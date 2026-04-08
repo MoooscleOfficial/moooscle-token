@@ -1,94 +1,94 @@
 # 🐮 Moooscle (MSCL)
-© 2024 Moooscle — MOOOD PAPER™ is an original concept created by the Herd.
 
-Moooscle (MSCL) is a community‑driven meme project built around inclusivity, self‑improvement, and playful strength.  
-It represents anyone who has ever felt different, weak, or out of place — and decided to grow anyway.  
-Moooscle is a muscular cow‑man who embraces his weirdness with pride, humor, and determination.
+![MOOOD PAPER Cover](assets/moodpaper-cover.png)
 
-This repository serves as the official public entry point for the Moooscle project.
+Moooscle (MSCL) is a community‑driven token born from a simple idea:  
+**you don’t need to be perfect to grow — you just need to start.**
 
----
-
-## 💪 Vision
-Moooscle is more than a mascot — it is a symbol of redemption, self‑acceptance, and collective empowerment.  
-The Herd (our community) grows together through humor, creativity, and a shared belief that strength comes from showing up, not from perfection.
-
-**Key pillars of the project:**
-
-- **Inclusivity** — everyone belongs in the Herd  
-- **Self‑improvement** — small steps, big gains  
-- **Meme Culture** — fun, accessible, community‑powered  
-- **Transparency & Fairness** — no insiders, no privileged access  
-
----
-
-## 📦 Project Status
-⚠️ **Early‑Stage Development**
-
-This repository is currently a minimal public placeholder.  
-Documentation, tokenomics details, and community materials are being progressively expanded.
-
-More content will be added as the project evolves.
-
----
-
-## 📄 Documentation
-📘 **Read the full MOOOD PAPER™:**  
-`/docs/MOOOD-PAPER.md`
-
-Full documentation and community materials will continue to grow as the project develops.
+A mascot of personal redemption, oddity, discipline, and humor.  
+A symbol for anyone who feels different, imperfect, or out of place…  
+yet chooses to improve anyway.
 
 ---
 
 ## 🔗 Contract Address
+
 **Polygon PoS**  
 `0xB7D7AFcfFbb32B619e32597f2DeBaBF4F783F13A`
 
----
-
-## 📁 Repository Structure (planned)
-/assets      → official images, logos, banners
-/docs        → MOOOD PAPER™, documentation, community guidelines
-/contracts   → smart contracts (when released)
-/community   → rituals, memes, contribution guidelines
-
-
-These folders will appear gradually as each component reaches completion.
+Verified source code:  
+https://polygonscan.com/address/0xB7D7AFcfFbb32B619e32597f2DeBaBF4F783F13A#code
 
 ---
 
-## 🤝 Community
-The Herd is growing step by step.  
-Community rituals, meme templates, and engagement guidelines will be added here as they are finalized.
+## 🧩 What Moooscle Represents
+
+- A strange, imperfect, muscular cow‑man who trains with humor  
+- A reminder that discipline beats perfection  
+- A mascot for the underdogs, the weird, the resilient  
+- A token built on community, storytelling, and identity
+
+Moooscle doesn’t have a Whitepaper.  
+It has a **MOOOD PAPER™** — the universal manifesto for becoming a Mooobull.
+
+Read it here:  
+**`/docs/MOOOD-PAPER.md`**
 
 ---
 
-## 🔒 License & Copyright
-All Moooscle characters, visuals, and narrative elements are original creations.
+## 📁 Repository Structure
 
-© 2024 Moooscle — MOOOD PAPER™ is an original concept created by the Herd.  
-All rights reserved.
-
----
-
-## ❤️ A Message from the Herd
-Moooscle stands for everyone who chooses to grow with courage, humor, and heart.  
-Thank you for being part of this journey — the Herd sees you, supports you, and grows with you.
+/assets       → official images, logos, banners
+/community    → rituals, memes, contribution guidelines
+/contracts    → contract documentation (no code duplication)
+/docs         → MOOOD PAPER™, documentation, lore
 
 ---
 
-## ⚠️ Disclaimer
-Moooscle (MSCL) is a community‑driven meme project created for entertainment, creativity, and collective participation.  
-It does not represent financial advice, investment guidance, or a promise of profit.
+## 🛠 Development Status
 
-By interacting with the token or the project, you acknowledge that:
+Moooscle is in an **early‑stage, community‑driven phase**.  
+The focus is on:
 
-- Cryptocurrency markets are highly volatile  
-- You should never invest money you cannot afford to lose  
-- You are fully responsible for your own decisions  
-- The project has no intrinsic financial value or guaranteed utility  
-- The team does not offer financial, legal, or tax advice  
+- building identity  
+- expanding the lore  
+- creating community rituals  
+- releasing visual assets  
+- growing organically and transparently  
 
-Moooscle is a symbol of self‑improvement, humor, and inclusivity — not a financial product.  
-Always do your own research (DYOR) and stay safe in the crypto space.
+No farming/training mechanics are currently planned.
 
+---
+
+## 🧪 Contracts
+
+The MSCL token contract is already deployed and verified on Polygon PoS.  
+The source code is visible on-chain and **not duplicated** in this repository.
+
+Future smart contracts (utilities, rituals, staking modules, etc.)  
+will be added inside `/contracts` with full documentation.
+
+---
+
+## 🌐 Community
+
+Moooscle grows through:
+
+- memes  
+- storytelling  
+- visual identity  
+- community rituals  
+- inclusive messaging  
+
+Everyone can become a Mooobull — odd, imperfect, and strong in spirit.
+
+---
+
+## 📜 License
+
+This repository contains documentation, branding, and community assets.  
+All rights reserved © 2024 Moooscle — MOOOD PAPER™ is an original concept created by the Herd.
+
+---
+
+## 🐮 Stay strong. Stay odd. Stay Mooobull.
