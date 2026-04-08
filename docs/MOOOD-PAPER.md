@@ -105,7 +105,7 @@ Being a Mooobull means joining the Herd — a community that grows together, wit
 - **Contract:** 0xB7D7AFcfFbb32B619e32597f2DeBaBF4F783F13A  
 - **Total Supply:** 1,000,000,000,000 (1 trillion)  
 - **Initial Pool:**  
-  - **100.009 POL**  
+  - **100,009 POL**  
   - 160,839,484,005.677 MSCL  
   - equal to 16.08% of total supply  
 
