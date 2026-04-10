@@ -1,14 +1,16 @@
 # 🐮 Moooscle (MSCL)
-
-![MOOOD PAPER Cover](assets/moodpaper-cover.png)
-
 <p align="left">
   <img src="https://img.shields.io/badge/Network-Polygon%20PoS-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
   <img src="https://img.shields.io/badge/Token-MSCL-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trade%20on-QuickSwap-1E90FF?style=for-the-badge&logo=quickswap&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Early%20Development-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Contract-Verified-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge" />
 </p>
+
+
+![MOOOD PAPER Cover](assets/moodpaper-cover.png)
+
 Moooscle (MSCL) is a community‑driven token born from a simple idea:  
 **you don’t need to be perfect to grow — you just need to start.**
 
