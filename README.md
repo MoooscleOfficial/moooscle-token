@@ -69,6 +69,32 @@ No farming/training mechanics are currently planned.
 
 ---
 
+## 🗺️ Roadmap (Community‑Driven & Non‑Binding)
+
+> **Note:** Moooscle is not a profit‑oriented project.  
+> This roadmap is intentionally simple, flexible, and non‑binding.  
+> All progress depends on the natural growth of the Herd and the time available from a single creator.
+
+### **2026 — Consolidation**
+- Strengthening Moooscle’s visual and narrative identity  
+- Updating modular assets for community use  
+- Expanding the MOOOD PAPER™ with new sections  
+- Improving branding, documentation, and GitHub structure  
+- Experimenting with community rituals and engagement formats
+
+### **2026–2027 — Organic Expansion**
+- Creating new characters and expanding the Moooscle “pantheon”  
+- Producing additional assets for memes, storytelling, and social content  
+- Introducing light, community‑focused features when feasible  
+- Occasional collaborations with other Polygon community projects
+
+### **Beyond 2027 — Evolving Naturally**
+- Future developments guided entirely by community participation  
+- Continued expansion of the Moooscle universe based on creativity and available time  
+- No technical promises — only organic, identity‑driven growth
+
+---
+
 ## 🧪 Contracts
 
 The MSCL token contract is already deployed and verified on Polygon PoS.  
