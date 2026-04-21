@@ -1,57 +1,73 @@
-# 🐮 Moooscle (MSCL) — Smart Contracts
+# 🐮 Moooscle (MSCL) — Smart Contract Source Code
 
-This folder is reserved for the smart contracts that power the Moooscle (MSCL) ecosystem.
-
-At the moment, the MSCL token contract is **already deployed and fully verified** on Polygon PoS.  
-Because the source code is publicly available and verifiable on PolygonScan, it is **not duplicated here**.
-
-This approach is intentional and follows the standard used by many meme‑tokens and community‑driven projects:  
-the contract is transparent and verifiable on-chain, while this repository focuses on documentation, branding, and community assets.
+Questa cartella contiene **tutti i file sorgente** del contratto Moooscle (MSCL)
+così come verificati su PolygonScan.  
+Il contratto è stato suddiviso in **7 file**, esattamente come riportato nella
+verifica on‑chain, per mantenere una struttura chiara, trasparente e fedele
+alla versione pubblicata sulla blockchain.
 
 ---
 
-## 🔗 Official Contract Address
+## 📁 Struttura dei file (1–7)
 
-**Polygon PoS**  
+I file sono riportati nello stesso ordine della verifica ufficiale:
+
+1. **ERC20Asset.sol** — File principale del token MSCL  
+2. **Ownable.sol** — Gestione proprietà (necessaria per la struttura originale)  
+3. **ERC20.sol** — Implementazione standard ERC‑20  
+4. **Initializable.sol** — Modulo di inizializzazione  
+5. **ERC20Base.sol** — Logica base del token (file più esteso)  
+6. **IERC165.sol** — Interfaccia ERC‑165  
+7. **IERC7572.sol** — Interfaccia per metadata standardization  
+
+Questi file ricostruiscono **al 100%** il contratto verificato su Polygon PoS.
+
+---
+
+## 🔗 Contratto ufficiale
+
+**Address (Polygon PoS):**  
 `0xB7D7AFcfFbb32B619e32597f2DeBaBF4F783F13A`
 
-You can view the verified source code here:  
-https://polygonscan.com/address/0xB7D7AFcfFbb32B619e32597f2DeBaBF4F783F13A#code
+Verifica completa su PolygonScan:  
+https://polygonscan.com/address/0xB7D7AFcfFbb32B619e32597f2DeBaBF4F783F13A
 
 ---
 
-## 📘 Why the contract code is not included here
+## 🧩 Perché il contratto è diviso in 7 file
 
-- The contract is already **verified** on PolygonScan.  
-- The on-chain version is the **canonical source of truth**.  
-- Avoids unnecessary duplication and reduces confusion.  
-- Prevents low-effort forks from copying the repository.  
-- Keeps this repo focused on **lore, documentation, and community assets**, which are the core of Moooscle.
+PolygonScan mostra il codice sorgente in più file quando il contratto originale
+è stato compilato con una struttura modulare.  
+Per garantire trasparenza e coerenza:
 
-If future smart contracts are introduced (staking, utilities, rituals, etc.),  
-they will be added to this folder with full documentation.
+- ogni file è stato ricreato **identico** alla versione verificata  
+- nessuna modifica è stata introdotta  
+- la struttura rispecchia esattamente quella on‑chain  
 
----
+Questo permette a chiunque di:
 
-## 📁 Folder Structure
-/contracts
-├─ README.md        → this file
-└─ .keep            → keeps the folder in the repository
-
----
-
-## 🧩 Future Additions
-
-This folder may include:
-
-- Additional utility contracts  
-- Staking or training mechanics  
-- Ritual or community-driven smart modules  
-- Contract audits and technical documentation  
-
-For now, Moooscle keeps things simple, transparent, and verifiable directly on-chain.
+- verificare il codice  
+- ricompilare il contratto  
+- confrontarlo con la versione on‑chain  
+- studiare la struttura modulare originale  
 
 ---
 
-## 🐮 Stay strong. Stay odd. Stay Mooobull.
+## 🔒 Sicurezza & Trasparenza
 
+- Nessuna funzione di mint  
+- Nessuna funzione di burn  
+- Nessuna blacklist  
+- Nessun owner con privilegi speciali  
+- Contratto completamente **immutabile**  
+- Codice verificato pubblicamente  
+
+---
+
+## 📘 Licenza
+
+Il codice segue la licenza originale riportata nei file sorgente (Apache‑2.0).
+
+---
+
+🐮 **Stay strong. Stay odd. Stay Mooobull.**
